@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Software is not Improv
+title:  Software Doesn't Get Better when you "Yes, and..."
 author: mpeck
 categories: [ blog ]
 featured: true
@@ -9,24 +9,27 @@ image: images/yes-and.jpg
 excerpt: Successful software projects need to be careful about saying "Yes, and..." to every new feature request.
 ---
 
-In [improvisational comedy][improv], and even in [brainstorming][brainstorming], there is a principle of ["Yes, and..."][yesand] that encourages people to build on each other's ideas. "There are no bad ideas" is a common mantra in these settings.
+In [improvisational comedy][improv] and [brainstorming][brainstorming] there is a principle of ["Yes, and..."][yesand] where people are encouraged to accept and build upon every new idea and suggestion.
 
-In software development, however, this principle can be dangerous. Saying "Yes, and..." to every new feature request can lead to scope creep, or can lead to projects becoming bloated with features that were not part of the original plan. 
+With software development, these suggestions come in the form of feature requests and, for OSS projects, pull requests. And why wouldn't you want your product to have more features?
 
-It's even worse if you never really had a plan in the first place. 
+Unfortunately, "Yes, and..." for software development can be dangerous. Instead of making your product better it kill it.
 
-Without a product vision, and a clear roadmap, it's easy to take well meaning ideas, suggestions, or (in the case of OSS) Pull Requests and to merge every one of them into your product.
+Saying "Yes, and..." leads to scope creep. Projects become bloated with features that were never part of the original plan. **This is even worse if you never really had a plan in the first place.**
 
-There's one thing that can sometimes prevent this happening, and that's the effort of implementing those ideas. Even merging someone's code into your own can be time consuming. 
+Without a strong product vision, or a clear roadmap, it's easy to take well meaning ideas and suggestions and merge every one of them into your product. The thing that usually stops this happening is the effort of doing so. Reviewing and merging pull requests, or implementing new feature request, takes time.
 
-However...with AI, LLMs, and coding agents the cost of implementing and merging every single well-intentioned suggestion has dropped significantly. It's easier than ever to say "Yes, and..." and bolt another feature on. 
+At least...it used to take time.
 
-Unfortunately, this often leads to products that are hard to understand, hard to explain, and harder for people to adopt. An effective one-use tool becomes a bloated and unwieldy mess that appears to have everything you want, but does none of them particularly well.
+In a world of AI, LLMs, and coding agents, the cost of implementing and merging every well-intentioned suggestion has dropped significantly. It's easier than ever to say "Yes, and..." and bolt another feature on. You can sit back and relax while your coding agent makes your product into a bloated and unwieldy mess.
 
-In an age of Agentic Software Engineering it is more important than ever to have a clear vision, a direction, and a strong opinion on where you want to go and what your software is aiming to achieve.
+In an age of agentic software development it is more important than ever to have a clear vision, a direction, and a strong opinion on where you want to go and what your software is aiming to achieve.
 
-If you publish your vision and roadmap you can refer to them when you politely, but firmly, say "no". In fact, you could even use AI to help you to say "no".
+Use your vision and roadmap to say "no".
 
+In fact, if you write the vision and roadmap and put them in your repo you can use that coding agent to evaluate suggestions, and craft polite ways to say "no". 
+
+Your product will be better off for it.
 
 [improv]: https://en.wikipedia.org/wiki/Improvisational_theatre#Comedy
 [brainstorming]: https://en.wikipedia.org/wiki/Brainstorming
