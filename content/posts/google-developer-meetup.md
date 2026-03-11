@@ -3,7 +3,7 @@ slug: google-developer-meetup
 date: 2018-06-22
 title:  "Google Developer Meetup"
 categories: [ blog ]
-featuredImage: images/tensorflow.png
+image: images/tensorflow.png
 summary: An evening of Tensorflow at the Google Developer Group, Reading, presented by Laurence Moroney. This post is my (short) write-up of this meetup.
 ---
 

@@ -3,7 +3,7 @@ slug: build-and-deploy-jekyll-with-docker-part2
 date: 2019-02-03
 title:  Building and Deploying Jekyll Sites using Docker - Part Two
 categories: [ Jekyll, blog, containers ]
-featuredImage: images/jekyll-docker/part2.png
+image: images/jekyll-docker/part2.png
 
 summary: Part 2 of 2, where I show how I'm using Docker images within my CI pipeline to build static websites with Jekyll
 ---

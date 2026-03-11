@@ -3,7 +3,7 @@ slug: software-is-not-improve
 date: 2026-02-18
 title:  Software Doesn't Get Better when you "Yes, and..."
 categories: [ blog ]
-featuredImage: images/yes-and.jpg
+image: images/yes-and.jpg
 summary: Successful software projects need to be careful about saying "Yes, and..." to every new feature request.
 ---
 

@@ -3,7 +3,7 @@ slug: bye-bye-apple-developer
 date: 2020-12-11
 title:  Goodbye, iMessage Stickers. Hello, Real Stickers! 
 categories: [ blog , stickers]
-featuredImage: images/apple-dev/zazzle.jpg
+image: images/apple-dev/zazzle.jpg
 summary: I'm cancelling my Apple Developer Program subscription, giving up publishing iMessage stickers, and attempting to sell real stickers!
 ---
 

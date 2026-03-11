@@ -1,75 +1,68 @@
 baseURL: "https://martinpeck.com/"
 title: martinpeck.com
 languageCode: en-gb
-theme: LoveIt
+
+module:
+  imports:
+    - path: github.com/hugo-sid/hugo-blog-awesome
 
 enableRobotsTXT: true
 enableEmoji: true
 
+author:
+  name: Martin Peck
+  email: martinjohnpeck@gmail.com
+
 markup:
   highlight:
-    codeFences: true
-    guessSyntax: true
-    lineNos: true
-    style: monokai
+    noClasses: false
   goldmark:
     renderer:
       unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4
+    ordered: false
+
+services:
+  googleAnalytics:
+    id: G-W3GQ5SV4ZZ
 
 params:
+  sitename: martinpeck.com
   description: "A blog, written by someone called Martin Peck"
-  defaultTheme: auto
+  defaultColor: auto
+  mainSections:
+    - posts
+  toc: true
+  tocOpen: false
+  goToTop: true
   dateFormat: "2 January 2006"
+  rssFeedDescription: summary
 
-  home:
-    profile:
-      enable: true
-      title: martinpeck.com
-      subtitle: "A blog, written by someone called Martin Peck"
-      avatarURL: /images/aboutme/products.png
-      social: true
-    posts:
-      enable: true
-      paginate: 9
-
-  social:
-    GitHub: martinpeck
-    LinkedIn: martinpeck
-    Mastodon: "@martinpeck@fosstodon.org"
-
-  page:
-    toc:
-      enable: true
-      keepStatic: false
-      auto: true
-    share:
-      enable: true
-
-  analytics:
-    enable: true
-    google:
-      id: G-W3GQ5SV4ZZ
-
-  section:
-    paginate: 20
+  author:
+    intro: martinpeck.com
+    name: Martin Peck
+    description: "A blog, written by someone called Martin Peck"
 
 menu:
   main:
-    - name: Posts
+    - pageRef: /
+      name: Home
+      url: /
+      weight: 10
+    - pageRef: posts
+      name: Posts
       url: /posts/
-      weight: 1
-    - name: About
+      weight: 20
+    - pageRef: about
+      name: About
       url: /about/
-      weight: 2
-    - name: Cartoons
+      weight: 30
+    - pageRef: cartoons
+      name: Cartoons
       url: /cartoons/
-      weight: 3
+      weight: 40
 
 permalinks:
   posts: /posts/:slug/
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON

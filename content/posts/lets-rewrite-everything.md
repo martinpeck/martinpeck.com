@@ -3,7 +3,7 @@ slug: lets-rewrite-everything
 date: 2022-02-03
 title:  Let's Rewrite Everything!
 categories: [ blog ]
-featuredImage: images/rewrite.jpg
+image: images/rewrite.jpg
 summary: How to react when someone suggests rewriting everything. How to convince someone it's a good idea.
 ---
 

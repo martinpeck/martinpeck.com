@@ -3,7 +3,7 @@ slug: building-custom-vm-images-on-azure
 date: 2023-01-04
 title:  Building Custom VM Images on Azure
 categories: [ blog ]
-featuredImage: images/customvm/process.png
+image: images/customvm/process.png
 summary: I've written some scripts that helped me build customer VM images for Azure. You might find them helpful.
 ---
 
