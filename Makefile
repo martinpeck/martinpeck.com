@@ -1,8 +1,8 @@
 serve:
-	bundle exec jekyll serve --future --drafts
+	hugo server --buildDrafts --buildFuture
 
 build:
-	bundle exec jekyll build --future --drafts
+	hugo --minify
 
 ci-build:
-	./.github/workflows/ci-build.sh
+	hugo --minify

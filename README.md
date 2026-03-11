@@ -1,28 +1,22 @@
 # martinpeck.com
 
-[![Build Jekyll Site](https://github.com/martinpeck/martinpeck.com/actions/workflows/jekyll.yml/badge.svg)](https://github.com/martinpeck/martinpeck.com/actions/workflows/jekyll.yml)
+My personal blog, built with [Hugo](https://gohugo.io/) and the [Hextra](https://github.com/imfing/hextra) theme.
 
-This is the source code for the [martinpeck.com](https://martinpeck.com) blog. If you've spotted a typo in that blog, you're welcome to send me a pull request.
+## Prerequisites
 
-## Building the Site
+- [Hugo](https://gohugo.io/installation/) (extended edition)
+- [Go](https://go.dev/dl/)
 
-The site uses a Visual Studio Code DevContainer to make local setup easier. Read this to find out more...
+## Local Development
 
-<https://code.visualstudio.com/docs/remote/containers>
+```bash
+# Start the development server
+make serve
 
-Assuming you're set up with VS Code, and the Remote Containers extension, you just need to open the project with VSCode and away you go!
+# Build the site
+make build
+```
 
-For convinience, there is a `Makefile` in this repo that defines the following rules:
+## Deployment
 
-- `make build` to build the site
-- `make serve` to build and then serve the site on `http://localhost:4000`
-
-## Acknowledgements
-
-This blog uses a modified version of [Mediumish](https://github.com/wowthemesnet/mediumish-theme-jekyll) for its theme, and is built using [Jekyll](http://jekyllrb.com).
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-Copyright (c) 2016 - 2020 Martin Peck
+The site is deployed to GitHub Pages automatically via GitHub Actions when changes are pushed to the `gh-pages` branch.
