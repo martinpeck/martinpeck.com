@@ -1,61 +1,75 @@
 baseURL: "https://martinpeck.com/"
 title: martinpeck.com
 languageCode: en-gb
-
-module:
-  imports:
-    - path: github.com/imfing/hextra
+theme: LoveIt
 
 enableRobotsTXT: true
+enableEmoji: true
 
 markup:
   highlight:
-    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: monokai
   goldmark:
     renderer:
       unsafe: true
 
 params:
   description: "A blog, written by someone called Martin Peck"
-  navbar:
-    displayTitle: true
-    displayLogo: false
-  footer:
-    displayPoweredBy: false
-  blog:
-    list:
-      displayTags: true
+  defaultTheme: auto
+  dateFormat: "2 January 2006"
 
-services:
-  googleAnalytics:
-    ID: G-W3GQ5SV4ZZ
+  home:
+    profile:
+      enable: true
+      title: martinpeck.com
+      subtitle: "A blog, written by someone called Martin Peck"
+      avatarURL: /images/aboutme/products.png
+      social: true
+    posts:
+      enable: true
+      paginate: 9
+
+  social:
+    GitHub: martinpeck
+    LinkedIn: martinpeck
+    Mastodon: "@martinpeck@fosstodon.org"
+
+  page:
+    toc:
+      enable: true
+      keepStatic: false
+      auto: true
+    share:
+      enable: true
+
+  analytics:
+    enable: true
+    google:
+      id: G-W3GQ5SV4ZZ
+
+  section:
+    paginate: 20
 
 menu:
   main:
-    - name: Blog
-      pageRef: /blog
+    - name: Posts
+      url: /posts/
       weight: 1
     - name: About
-      pageRef: /about
+      url: /about/
       weight: 2
     - name: Cartoons
-      pageRef: /cartoons
+      url: /cartoons/
       weight: 3
-    - name: GitHub
-      url: https://github.com/martinpeck
-      weight: 4
-      params:
-        icon: github
-    - name: LinkedIn
-      url: https://www.linkedin.com/in/martinpeck/
-      weight: 5
-      params:
-        icon: linkedin
-    - name: Mastodon
-      url: https://fosstodon.org/@martinpeck
-      weight: 6
-      params:
-        icon: mastodon
 
 permalinks:
-  blog: /blog/:slug/
+  posts: /posts/:slug/
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

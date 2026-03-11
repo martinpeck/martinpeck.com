@@ -1,6 +1,5 @@
 ---
 title: Cartoons and Stickers
-type: default
 ---
 
 One of my hobbies is drawing. As an experiment, I've been selling some of my designs as stickers, greeting cards, and more!
@@ -20,4 +19,4 @@ One of my hobbies is drawing. As an experiment, I've been selling some of my des
 
 In the past I've also created a number of iMessage sticker packs! Unfortunately, I didn't find this a very enjoyable experience, and you can read about this here:
 
-[Goodbye, iMessage Stickers. Hello, Real Stickers!](/blog/bye-bye-apple-developer/)
+[Goodbye, iMessage Stickers. Hello, Real Stickers!](/posts/bye-bye-apple-developer/)

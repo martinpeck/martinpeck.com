@@ -6,7 +6,7 @@ categories: [ blog ]
 summary: An approach to keeping the kids at my Code Club focused on what's important
 ---
 
-One of the things I find, when [volunteering at the school where I run a Code Club](/blog/volunteering-for-code-club/), is that the kids always want to spend lots of time drawing backgrounds for their [Scratch](https://scratch.mit.edu) games, or creating awesome sprites. Sometimes they spend more time doing this than actually writing code.
+One of the things I find, when [volunteering at the school where I run a Code Club](/posts/volunteering-for-code-club/), is that the kids always want to spend lots of time drawing backgrounds for their [Scratch](https://scratch.mit.edu) games, or creating awesome sprites. Sometimes they spend more time doing this than actually writing code.
 
 So, for this week, I thought I'd try showing them how I go about designing a Scratch game and how I try and get the logic of the game working first, and make it look pretty later. We're building Viking themed quiz games (a little like [Code Club's Brain Game project](https://www.codeclubprojects.org/en-GB/scratch/brain-game/)).
 

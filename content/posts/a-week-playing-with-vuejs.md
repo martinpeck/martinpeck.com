@@ -54,5 +54,5 @@ Other things I've discovered this week include:
 [axios]: https://github.com/mzabriskie/axios
 [Surge.sh]: https://surge.sh
 
-[part1]: /blog/playing-with-axios-part1/
-[part2]: /blog/playing-with-axios-part2/
+[part1]: /posts/playing-with-axios-part1/
+[part2]: /posts/playing-with-axios-part2/

@@ -3,7 +3,7 @@ slug: build-and-deploy-jekyll-with-docker-part2
 date: 2019-02-03
 title:  Building and Deploying Jekyll Sites using Docker - Part Two
 categories: [ Jekyll, blog, containers ]
-image: images/jekyll-docker/part2.png
+featuredImage: images/jekyll-docker/part2.png
 
 summary: Part 2 of 2, where I show how I'm using Docker images within my CI pipeline to build static websites with Jekyll
 ---
@@ -154,11 +154,11 @@ The Travis Build (that I'll be switching off soon):
 
 [devops]: https://azure.microsoft.com/en-gb/services/devops/
 [docker]: https://www.docker.com/
-[part1]: /blog/build-and-deploy-jekyll-with-docker-part1/
+[part1]: /posts/build-and-deploy-jekyll-with-docker-part1/
 [gettingstarted]: https://docs.microsoft.com/en-us/azure/devops/index
 [createpipeline]: https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started-yaml?view=azure-devops
 [releasepipeline]:https://docs.microsoft.com/en-us/azure/devops/pipelines/release/what-is-release-management?view=azure-devops
 [azurefilecopy]:https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/deploy/azure-file-copy?view=azure-devops
-[staticstorage]:https://azure.microsoft.com/en-us/blog/azure-storage-static-web-hosting-public-preview/
+[staticstorage]:https://azure.microsoft.com/en-us/posts/azure-storage-static-web-hosting-public-preview/
 [jekyll-travis]:https://jekyllrb.com/docs/continuous-integration/travis-ci/
 [travis-docker-docs]:https://docs.travis-ci.com/user/docker/

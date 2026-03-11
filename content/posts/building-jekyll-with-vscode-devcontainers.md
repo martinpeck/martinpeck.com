@@ -3,7 +3,7 @@ slug: building-jekyll-with-vscode-devcontainers
 date: 2020-11-05
 title:  Building Jekyll Sites within VS Code Dev Containers
 categories: [ blog ]
-image: images/jekyll-docker/devcontainers.png
+featuredImage: images/jekyll-docker/devcontainers.png
 summary: I've simplified my dev tooling for Jekyll by using VS Code Dev Containers
 ---
 
@@ -22,6 +22,6 @@ For reference, here are the posts from last year...
 
 
 [docker]: https://www.docker.com/
-[part1]: /blog/build-and-deploy-jekyll-with-docker-part1/
-[part2]: /blog/build-and-deploy-jekyll-with-docker-part2/
+[part1]: /posts/build-and-deploy-jekyll-with-docker-part1/
+[part2]: /posts/build-and-deploy-jekyll-with-docker-part2/
 

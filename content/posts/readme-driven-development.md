@@ -3,7 +3,7 @@ slug: readme-driven-development
 date: 2017-10-30
 title:  README Driven Development
 categories: [ blog ]
-image: images/readme.png
+featuredImage: images/readme.png
 summary: Write your README first and use it to design your code. This post contains my thoughts about README Driven Development, and how it can help define the features and functionality of a reusable component.
 ---
 

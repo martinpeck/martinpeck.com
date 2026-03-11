@@ -30,7 +30,7 @@ While trying get things working I read a post that recommended [Surge.sh], so I 
 In the end, the use of [axios] in the app was pretty trivial. The learning curve required to get up and running with [axios] and [Vue.js] was very shallow, and I felt productive with both in a short amount of time. I'll be playing with both of these in the future.
 
 
-[part1]: /blog/playing-with-axios-part1/
+[part1]: /posts/playing-with-axios-part1/
 [Vue.js]: https://vuejs.org/
 [axios]: https://github.com/mzabriskie/axios
 [pokemonapi]: https://pokeapi.co/docsv2/#

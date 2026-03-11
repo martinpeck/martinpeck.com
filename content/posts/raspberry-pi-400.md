@@ -3,7 +3,7 @@ slug: raspberry-pi-400
 date: 2020-11-06
 title:  Raspberry Pi 400 - First Impressions
 categories: [ blog ]
-image: images/rpi400/rpi400.jpg
+featuredImage: images/rpi400/rpi400.jpg
 summary: These are my first impressions of the new Raspberry Pi 400, and my experiences of setting it up as a machine for development and blogging.
 ---
 

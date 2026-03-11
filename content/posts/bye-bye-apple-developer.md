@@ -3,7 +3,7 @@ slug: bye-bye-apple-developer
 date: 2020-12-11
 title:  Goodbye, iMessage Stickers. Hello, Real Stickers! 
 categories: [ blog , stickers]
-image: images/apple-dev/zazzle.jpg
+featuredImage: images/apple-dev/zazzle.jpg
 summary: I'm cancelling my Apple Developer Program subscription, giving up publishing iMessage stickers, and attempting to sell real stickers!
 ---
 
@@ -84,6 +84,6 @@ I've uploaded a number of designs to [Redbubble][redbubble] and [Zazzle][zazzle]
 
 
 [mystickers]: https://apps.apple.com/us/developer/martin-peck/id1190424045
-[creatingstickers]: /blog/creating-stickers-for-messenger/
+[creatingstickers]: /posts/creating-stickers-for-messenger/
 [redbubble]: https://martinpeck.redbubble.com
 [zazzle]: https://www.zazzle.co.uk/store/martinpeck

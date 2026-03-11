@@ -3,7 +3,7 @@ slug: uninstalling-facebook
 date: 2019-01-26
 title:  I've Uninstalled the Facebook Apps
 categories: [ blog ]
-image: images/facebook-delete.png
+featuredImage: images/facebook-delete.png
 summary: I've uninstalled the Facebook app from my mobile devices. Here's why.
 ---
 
