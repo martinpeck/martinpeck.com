@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "martinpeck.com"
+  description: "A blog, written by someone called Martin Peck"
+  site-url: https://martinpeck.com
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: cartoons.qmd
+        text: Cartoons
+    right:
+      - icon: github
+        href: https://github.com/martinpeck
+      - icon: linkedin
+        href: https://www.linkedin.com/in/martinpeck
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

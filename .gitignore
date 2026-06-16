@@ -1,10 +1,7 @@
-# Ignore docs files
-_gh_pages
-_site
-.ruby-version
- 
-.jekyll-cache/
-.jekyll-metadata
+# Quarto
+/.quarto/
+_site/
+_freeze/
 
 
 # Numerous always-ignore extensions
@@ -33,13 +30,5 @@ nbproject
 *.sublime-workspace
 .idea
 
-# grunt-html-validation
-validation-status.json
-validation-report.json
-
 # Folders to ignore
 node_modules
-vendor
-
-# Sass Cache Trash
-.sass-cache
