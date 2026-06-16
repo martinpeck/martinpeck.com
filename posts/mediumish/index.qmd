@@ -5,6 +5,7 @@ categories:
 - Jekyll
 - tutorial
 draft: true
+image: /images/default-post-cover.svg
 ---
 
 There are lots of powerful things you can do with the Markdown editor

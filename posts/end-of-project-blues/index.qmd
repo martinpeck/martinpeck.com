@@ -4,6 +4,7 @@ author: Martin Peck
 description: After working hard on a project, or after hitting a significant milestone,
   I often feel "down" or "low" as the pressure comes off.
 date: '2019-09-08'
+image: /images/default-post-cover.svg
 ---
 
 

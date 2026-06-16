@@ -5,6 +5,7 @@ description: An approach to keeping the kids at my Code Club focused on what's i
 categories:
 - blog
 date: '2016-01-29'
+image: /images/default-post-cover.svg
 ---
 
 

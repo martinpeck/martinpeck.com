@@ -5,6 +5,7 @@ description: My first post to this blog. You should totally read it.
 categories:
 - blog
 date: '2015-07-04'
+image: /images/default-post-cover.svg
 ---
 
 

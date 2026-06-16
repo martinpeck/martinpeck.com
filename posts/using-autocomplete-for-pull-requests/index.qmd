@@ -6,6 +6,7 @@ description: When should you use the auto-complete feature of Azure DevOps to au
 categories:
 - blog
 date: '2020-12-16'
+image: /images/default-post-cover.svg
 ---
 
 

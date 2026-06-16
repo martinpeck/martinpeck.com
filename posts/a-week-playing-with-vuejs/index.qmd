@@ -5,6 +5,7 @@ description: A round-up of my week playing with Vue.js, building some basic webs
 categories:
 - blog
 date: '2017-09-16'
+image: /images/default-post-cover.svg
 ---
 
 

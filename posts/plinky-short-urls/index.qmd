@@ -5,6 +5,7 @@ description: I got fed up with Bitly and wrote something of my own.
 categories:
 - blog
 date: '2016-03-02'
+image: /images/default-post-cover.svg
 ---
 
 

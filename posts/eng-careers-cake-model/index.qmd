@@ -6,6 +6,7 @@ description: How I explain career progression, yearly reviews, promotions, and i
 categories:
 - blog
 draft: true
+image: /images/default-post-cover.svg
 ---
 
 

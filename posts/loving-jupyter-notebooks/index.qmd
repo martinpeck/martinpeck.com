@@ -5,6 +5,7 @@ description: I've become a Jupyter Notebooks convert. Find out why.
 categories:
 - blog
 date: '2017-04-04'
+image: /images/default-post-cover.svg
 ---
 
 

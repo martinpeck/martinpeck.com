@@ -6,6 +6,7 @@ description: To help my daughter convert a hand-written essay into an electronic
   I wrote a Python script that uses Azure Cognative Services to extract text from
   handwriting.
 date: '2019-11-29'
+image: /images/default-post-cover.svg
 ---
 
 

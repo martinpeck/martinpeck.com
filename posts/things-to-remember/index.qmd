@@ -6,6 +6,7 @@ description: A work-in-progress list of things that you should remember when wri
 categories:
 - blog
 date: '2021-02-03'
+image: /images/default-post-cover.svg
 ---
 
 

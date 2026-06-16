@@ -32,3 +32,8 @@ nbproject
 
 # Folders to ignore
 node_modules
+
+**/*.quarto_ipynb
+
+site_libs/
+posts/*/index.html

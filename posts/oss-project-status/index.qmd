@@ -7,6 +7,7 @@ categories:
 - oss
 - github
 date: '2019-03-08'
+image: /images/default-post-cover.svg
 ---
 
 

@@ -5,6 +5,7 @@ description: Can VS Code tear me away from Sublime Text? Maybe.
 categories:
 - blog
 date: '2016-04-16'
+image: /images/default-post-cover.svg
 ---
 
 

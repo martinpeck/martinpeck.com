@@ -5,6 +5,7 @@ description: A quick post related to axios, a javascript library for async http 
 categories:
 - blog
 date: '2017-09-06'
+image: /images/default-post-cover.svg
 ---
 
 

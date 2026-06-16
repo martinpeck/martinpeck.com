@@ -4,6 +4,7 @@ author: Martin Peck
 description: I'd been using iTerm2 for some time, but I've just stumbled across the
   alerting feature and now use every time I deploy an ARM template for Azure.
 date: '2018-07-04'
+image: /images/default-post-cover.svg
 ---
 
 

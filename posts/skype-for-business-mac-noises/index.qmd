@@ -4,6 +4,7 @@ author: Martin Peck
 description: How I stopped Skype for Business, on my Mac, from playing that really
   annoying "whoosh" sounds when it starts up.
 date: '2018-06-26'
+image: /images/default-post-cover.svg
 ---
 
 

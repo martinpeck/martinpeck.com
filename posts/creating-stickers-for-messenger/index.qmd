@@ -6,6 +6,7 @@ categories:
 - stickers
 - tutorial
 date: '2020-02-08'
+image: /images/default-post-cover.svg
 ---
 
 

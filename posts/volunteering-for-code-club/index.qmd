@@ -6,6 +6,7 @@ description: I've been volunteering for Code Club since April 2013. Here's why I
 categories:
 - blog
 date: '2016-01-23'
+image: /images/default-post-cover.svg
 ---
 
 
